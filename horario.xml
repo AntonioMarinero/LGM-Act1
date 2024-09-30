@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<horario>
+    <clases>
+        <clase>
+            <nombre>IPE 1</nombre>
+            <inicio>08:15</inicio>
+            <fin>09:15</fin>
+        </clase>
+        <clase>
+            <nombre>IPE 1</nombre>
+            <inicio>09:15</inicio>
+            <fin>10:15</fin>
+        </clase>
+        <clase>
+            <nombre>Lenguaje de Marcas</nombre>
+            <inicio>10:15</inicio>
+            <fin>11:15</fin>
+        </clase>
+        <descanso>
+            <inicio>11:15</inicio>
+            <fin>11:45</fin>
+        </descanso>
+        <clase>
+            <nombre>Base de Datos</nombre>
+            <inicio>11:45</inicio>
+            <fin>12:45</fin>
+        </clase>
+        <clase>
+            <nombre>Base de Datos</nombre>
+            <inicio>12:45</inicio>
+            <fin>13:45</fin>
+        </clase>
+        <clase>
+            <nombre>Digitalización</nombre>
+            <inicio>13:45</inicio>
+            <fin>14:45</fin>
+        </clase>
+    </clases>
+</horario>

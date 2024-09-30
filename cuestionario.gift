@@ -1,0 +1,55 @@
+
+// Nombre: Definición de lenguajes de marcas
+::¿Qué es un lenguaje de marcas?::
+{=Un conjunto de reglas para anotar un texto de forma que pueda ser interpretado por máquinas
+~Un lenguaje de programación para aplicaciones
+#Aunque puede ser usado en programación, un lenguaje de marcas se centra en la estructura del contenido, no en la lógica.
+~Una herramienta para compilar código fuente
+#No es su función principal, se enfoca más en la organización de documentos.
+~Un tipo de software para editar imágenes
+#Esto es incorrecto; los lenguajes de marcas se usan para estructurar contenido textual, no para edición de imágenes.
+}
+
+// Nombre: HTML
+::¿Cuál es el lenguaje de marcas más utilizado para crear páginas web?::
+{=HTML
+~Python
+#Python es un lenguaje de programación, no de marcas.
+~SQL
+#SQL es un lenguaje para manejar bases de datos, no para estructurar contenido web.
+~CSS
+#CSS se utiliza para diseñar el estilo de las páginas web, pero no es un lenguaje de marcas.
+}
+
+// Nombre: Diferencia entre HTML y XML
+::¿Cuál es una diferencia clave entre HTML y XML?::
+{=HTML tiene etiquetas predefinidas, mientras que XML permite definir etiquetas personalizadas
+~HTML se usa solo para bases de datos
+#HTML se usa principalmente para crear páginas web, no para bases de datos.
+~XML es un lenguaje de programación
+#XML es un lenguaje de marcas, no de programación.
+~HTML no es utilizado en la web
+#Al contrario, HTML es el lenguaje principal utilizado en la web.
+}
+
+// Nombre: Fundamentos del lenguaje de marcas
+::¿Cuál de los siguientes NO es un lenguaje de marcas?::
+{=JavaScript
+~HTML
+#HTML es un lenguaje de marcas que estructura el contenido de páginas web.
+~XML
+#XML es un lenguaje de marcas usado para almacenar y transportar datos.
+~Markdown
+#Markdown es un lenguaje de marcas ligero usado para dar formato a texto de manera simple.
+}
+
+// Nombre: Usos de Markdown
+::¿Para qué se usa principalmente Markdown?::
+{=Para dar formato simple a texto, especialmente en archivos README, documentación y blogs
+~Para compilar aplicaciones web
+#Markdown no compila código; solo da formato al texto.
+~Para gestionar bases de datos
+#No se usa para bases de datos, sino para formatear contenido.
+~Para desarrollar videojuegos
+#Markdown no se usa para desarrollo de videojuegos, sino para la estructuración de texto.
+}

@@ -1,0 +1,16 @@
+# Sobre mí
+- Nombre
+  - Antonio
+- Apellidos
+  - Marinero Jabalera
+- Ciudad de origen 
+  - Córdoba
+- Hobbies
+  - Jugar videojuegos
+- Correo electrónico
+  - a24majaan@iesgrancapitan.org
+- Foto
+  - ![foto]()
+- ruta la tiñosa
+  - enlace [wikiloc]( https://es.wikiloc.com/rutas-senderismo/la-tinosa-subbeticas-de-cordoba-6878870 )
+  - ruta [XML](./la-tinosa-subbeticas-de-cordoba.tcx)
